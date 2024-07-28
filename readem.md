@@ -1,0 +1,1 @@
+You can calculate percentage for a particular figure in the form of percentage; 
